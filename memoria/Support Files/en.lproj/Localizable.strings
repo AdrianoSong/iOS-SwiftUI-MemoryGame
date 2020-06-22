@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  memoria
+
+  Created by Song on 11/06/20.
+  Copyright © 2020 Adriano Song. All rights reserved.
+*/
+
+"game.name" = "Memory";
+"button.start_game" = "Start";
+"button.easy_mode_game" = "Easy mode";
+"button.normal_mode_game" = "Normal mode";
+"button.hard_mode_game" = "Hard mode";
+"end_game" = "You loose";
+"winner" = "You Win!";
+"try_again" = "Try again?";
+"close" = "Close";
+

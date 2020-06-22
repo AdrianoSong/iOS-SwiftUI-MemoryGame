@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  memoria
+
+  Created by Song on 11/06/20.
+  Copyright © 2020 Adriano Song. All rights reserved.
+*/
+
+"game.name" = "Memória";
+"button.start_game" = "Começar";
+"button.easy_mode_game" = "Modo fácil";
+"button.normal_mode_game" = "Modo normal";
+"button.hard_mode_game" = "Modo difícil";
+"end_game" = "Você perdeu";
+"winner" = "Você ganhou!";
+"try_again" = "Tentar de novo?";
+"close" = "Fechar";
